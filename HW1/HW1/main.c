@@ -1,8 +1,8 @@
 //
-//  Hello.c
+//  main.c
 //  HW1
 //
-//  Created by Laura Herrle on 2/4/13.
+//  Created by Laura Herrle on 2/5/13.
 //  Copyright (c) 2013 Laura Herrle. All rights reserved.
 //
 
